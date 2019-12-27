@@ -2,6 +2,8 @@
 
 This is a simple stopwatch timer library for C++ that reports statistics such as mean, standard deviation, max and min.
 
+https://shingo-kagami.github.io/stattimer/
+
 
 ## Quick Start
 
